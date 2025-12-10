@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         施術ループ自動候補テスト版 v6.0（武将名+スキルLVリスト出力）
+// @name         施術ループ自動候補テスト版 （武将名+スキルLVリスト出力）
 // @namespace
-// @version      6.0-test
+// @version      test
 // @description  内政設定ページで施術ループ候補を解析し、ループ成立時に「番号. 武将名 スキル名LV○」の一覧だけを表示するテスト用スクリプト
 // @include      https://*.3gokushi.jp/card/domestic_setting.php*
 // @exclude      http://*.3gokushi.jp/maintenance*
